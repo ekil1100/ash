@@ -8,5 +8,11 @@
   },
   "dependencies": {
     "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-gridsome": "^1.4.0",
+    "vue-eslint-parser": "^6.0.4"
   }
 }
